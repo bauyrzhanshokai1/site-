@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	font-family: "Merriweather", serif;
+	background-color: #F0EDCF ;
+}
+h1{
+color:#0B60B0;
+}
+.text{
+ text-align: center;
+
+}
+.navbar{
+ margin:20 px 100 px;
+ align-items: center;
+ border:1 px solid gray;
+ border-radius:30 px;
+ background-color: #F0EDCF;
+ display:flex;
+ padding:0 50px;
+ height:80 px;
+}
+.logo{
+ font-size:30 px;
+ margin:0 50px 0 50px;
+}

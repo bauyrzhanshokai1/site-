@@ -1,0 +1,78 @@
+body{
+margin : 0;
+    background-color: white;
+}
+.korobka{
+    height: 99vh;
+    margin: 15px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero{
+    background-color: #618264;
+    display: flex;
+    height: 99vh;
+}
+h1{
+    font-size: 100px;
+    margin: 15px 0 15px 0;
+}
+h2{
+    font-size: 30px;
+    margin: 0;
+}
+img{
+    z-index: 2;
+    width: 60%;
+}
+.krug{
+  z-index: 5;
+  position: absolute;
+  top: 100px;
+  height: 160px;
+  width: 150px;
+  background-color: gray;
+  
+}
+.prizrak{
+    width: 80px;
+    position: absolute;
+}
+.top200{
+    top: 200px;
+}
+.top300{
+    top: 300px;
+}
+.top400{
+    top: 400px;
+}
+.top500{
+    top: 500px;
+}
+.top600{
+    top: 600px;
+}
+.navbar{
+    margin: 20px 100px;
+    background-color: #D0E7D2;
+    border: 1px solid black;
+    border-radius: 123px;
+    display: flex;
+    height: 80px;
+}
+.logo{
+    font-size: 30px;
+    margin: 0 50px 0 50px;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 0 0 50px;
+}
+h3{
+ color:#ffffff;
+ font-size:420px;
+}
